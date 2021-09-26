@@ -4,7 +4,7 @@
 
 - [moverse entre palabras](#moverse-entre-palabras)
 - [insertar](#insertar)
-- [eliminar texto](#eliminar-texto)
+- [elimiar texto](#elimiar-texto)
 - [guardar](#guardar)
 - [salir](#salir)
 - [moverse entre archivos](#moverse-entre-archivos)
