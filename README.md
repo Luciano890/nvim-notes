@@ -1,6 +1,6 @@
 # nvim-notes
 
-## Ménu
+## Menú
 
 - [moverse entre palabras](#moverse-entre-palabras)
 - [insertar](#insertar)
