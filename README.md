@@ -4,7 +4,7 @@
 
 - [moverse entre palabras](#moverse-entre-palabras)
 - [insertar](#insertar)
-- [elimiar texto](#elimiar-texto)
+- [eliminar texto](#eliminar-texto)
 - [guardar](#guardar)
 - [salir](#salir)
 - [moverse entre archivos](#moverse-entre-archivos)
@@ -31,7 +31,7 @@
 
 ---
 
-### elimiar texto
+### eliminar texto
 
 * `x` eliminar caracter por caracter
 
